@@ -1,0 +1,9 @@
+scipy==1.2.1    install 1.10.0
+numpy==1.17.0  install 1.23.5
+matplotlib==3.1.2  install 3.6.2
+opencv_python==4.1.2.30 install 4.7.0.72
+torch==1.2.0
+torchvision==0.4.0
+tqdm==4.60.0
+Pillow==8.2.0
+h5py==2.10.0
